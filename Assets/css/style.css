@@ -15,7 +15,29 @@ header {
 
 header a {
   text-decoration: none;
-  color: white;
+/* Navbar */
+nav {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  background-color: white;
+  padding: 0 1rem;
+  box-shadow: 0 2px 2px white;
+  display: none;
+  top: 100%;
+}
+
+/* Nav toggle */
+#nav-toggle:checked ~ nav {
+  display: block;
+}
+
+#nav-toggle {
+  display: none;
+}
+
+.nav-toggle-label {
+  font-size: 2rem;
 }
 
 
