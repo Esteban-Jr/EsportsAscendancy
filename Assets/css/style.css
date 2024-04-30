@@ -1,28 +1,46 @@
+/* Google fonts import*/
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
+
+/* Asterick wildcard selector to override deafult styles added by the browser */
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
 
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #262626;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Header */
 header {
-  background-color: black;
+  background-color: #23f89e;
   padding: 0 1rem;
-  position: fixed;
+  position: relative;
   z-index: 99;
   width: 100%;
-  box-shadow: 0 2px 2px #3a3a3a;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
 }
 
 header a {
   text-decoration: none;
+  color: black;
+  font-weight: bolder;
+}
+
 /* Navbar */
 nav {
   position: absolute;
   width: 100%;
   right: 0;
-  background-color: white;
+  background-color: #23f89e;
   padding: 0 1rem;
-  box-shadow: 0 2px 2px white;
+  box-shadow: 2px 2px 2px 2px black;
   display: none;
   top: 100%;
 }
@@ -40,8 +58,151 @@ nav {
   font-size: 2rem;
 }
 
+/* Main */
+.main {
+  background-color: white;
+  /* Make main element take up any surplus space to push footer down*/
+  flex: 1 0 auto;
+  margin-top: 47px;
+}
 
-img {
+#main-image {
+  position: relative;
+  background-size: cover;
+  display: block;
+}
+
+#front-image {
   width: 100%;
+}
 
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.main-title {
+  font-size: 6vw;
+  color: white;
+  position: absolute;
+  max-width: 80%;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.hero {
+  margin: -4px auto 20px;
+  display: block;
+  width: 80%;
+  padding: 20px;
+}
+
+#text {
+  font-size: 0.8rem;
+  margin: 10px;
+  display: block;
+  color: white;
+  text-align: justify;
+  line-height: 1.8;
+}
+
+#title {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #2bfba3;
+  margin: 20px;
+}
+
+/* History section */
+.history {
+  margin: 10px auto 20px;
+  display: block;
+}
+#years {
+  text-align: center;
+  font-size: 1.3rem;
+  margin: 5px;
+  color: #2bfba3;
+}
+
+.history p {
+  padding-top: 30px;
+  font-size: 0.8rem;
+  margin: 10px;
+  display: block;
+  color: white;
+  text-align: justify;
+  line-height: 2;
+}
+
+#history-images {
+  width: 100%;
+  margin-top: 10px;
+}
+
+#container {
+  padding: 20px 65px;
+}
+
+/* Footer */
+
+footer {
+  width: 100%;
+  background-color: #23f89e;
+  position: relative;
+  color: black;
+  padding-top: 5px;
+  font-weight: bolder;
+}
+
+/* Responsiveness */
+@media screen and (min-width: 768px) {
+  #front-image {
+    height: 80vh;
+    position: relative;
+    background-size: cover;
+    display: block;
+    object-fit: cover;
+  }
+
+  .hero {
+    padding: 60px 0;
+  }
+
+  .history {
+    text-align: center;
+    align-items: center;
+    width: 100%;
+  }
+
+  .history p {
+    padding-top: 30px;
+    font-size: 0.8rem;
+    margin: 10px;
+    display: block;
+    color: white;
+    text-align: justify;
+    line-height: 1.8;
+  }
+
+  .history h2 {
+    padding-top: 20px;
+    color: #2bfba3;
+  }
+
+  #history-images {
+    width: 50%;
+    margin-top: 35px;
+    float: left;
+    padding: 20px;
+    padding-right: 48px;
+  }
+
+  #container {
+    padding: 20px 200px;
+    display: block;
+    overflow: hidden;
+  }
 }
