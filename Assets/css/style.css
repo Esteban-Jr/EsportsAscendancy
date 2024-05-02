@@ -32,6 +32,7 @@ header a {
   color: black;
   font-weight: bolder;
   padding-right: 15px;
+  float: right;
 }
 
 /* Navbar */
