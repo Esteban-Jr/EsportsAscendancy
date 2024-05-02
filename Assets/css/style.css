@@ -61,7 +61,7 @@ nav {
   font-size: 2rem;
 }
 
-/* Main */
+/*------------------------- Home page -----------------------------*/
 .main {
   background-color: white;
   /* Make main element take up any surplus space to push footer down*/
@@ -69,13 +69,13 @@ nav {
   margin-top: 47px;
 }
 
-#main-image {
+.main-image {
   position: relative;
   background-size: cover;
   display: block;
 }
 
-#front-image {
+.front-image {
   width: 100%;
 }
 
@@ -102,7 +102,7 @@ nav {
   padding: 20px;
 }
 
-#text {
+.text {
   font-size: 0.8rem;
   margin: 10px;
   display: block;
@@ -111,7 +111,7 @@ nav {
   line-height: 1.8;
 }
 
-#title {
+.title {
   text-align: center;
   font-size: 1.7rem;
   color: #2bfba3;
@@ -123,7 +123,7 @@ nav {
   margin: 10px auto 20px;
   display: block;
 }
-#years {
+.years {
   text-align: center;
   font-size: 1.3rem;
   margin: 5px;
@@ -140,30 +140,28 @@ nav {
   line-height: 2;
 }
 
-#history-images {
+.history-images {
   width: 100%;
   margin-top: 10px;
 }
 
-#container {
+.container {
   padding: 20px 65px;
 }
 
-/* Events page */
-#events-images {
+/*------------------- Events page -------------------*/
+.events-images {
   width: 100%;
-  /*padding: 17px;*/
   padding-top: 10px;
 }
 
-#events-image {
+.events-image {
   width: 100%;
   background-size: cover;
-  /*padding: 17px;*/
   padding-top: 10px;
 }
 
-#events-text {
+.events-text {
   float: left;
   text-align: justify;
   padding-top: 15px;
@@ -175,41 +173,60 @@ nav {
   line-height: 2;
 }
 
-#title-image {
+.title-image {
   width: 100%;
   background-size: cover;
   height: 10vh;
 }
 
-/* Gallery page */
+/*------------------- Gallery page -------------------*/
 .gallery {
   display: flex;
-  width: 100%;
-  flex-wrap: wrap;
   justify-content: center;
+  flex-wrap: wrap;
 }
 
-#gallery-images {
+.gallery-images {
   width: 400px;
   height: 200px;
   object-fit: cover;
   object-position: bottom;
   padding: 10px;
 }
+
 /* Footer */
 
 footer {
   width: 100%;
-  background-color: #23f89e;
+  background-color: #262626;
   position: relative;
-  color: black;
+  color: white;
   padding-top: 5px;
   font-weight: bolder;
+  text-align: center;
+}
+
+footer p {
+  padding-bottom: 20px;
+}
+
+.social-media {
+  display: flex;
+  justify-content: center;
+}
+
+.social-media a {
+  text-decoration: none;
+  display: flex;
+  color: #2bfba3;
+  font-size: 30px;
+  justify-content: space-between;
+  padding: 25px 20px;
 }
 
 /* Responsiveness */
 @media screen and (min-width: 768px) {
-  #front-image {
+  .front-image {
     height: 80vh;
     position: relative;
     background-size: cover;
@@ -221,13 +238,14 @@ footer {
     padding: 60px 0;
   }
 
-  #title {
+  .title {
     font-size: 2.6rem;
   }
 
-  #text {
+  .text {
     font-size: 1rem;
   }
+
   .history {
     text-align: center;
     align-items: center;
@@ -249,7 +267,7 @@ footer {
     color: #2bfba3;
   }
 
-  #history-images {
+  .history-images {
     width: 50%;
     margin-top: 35px;
     float: left;
@@ -257,18 +275,19 @@ footer {
     padding-right: 48px;
   }
 
-  #container {
+  .container {
     padding: 20px 200px;
     display: block;
     overflow: hidden;
   }
-  #containers {
+
+  .containers {
     padding: 20px 100px;
     display: block;
     overflow: hidden;
   }
 
-  #events-images {
+  .events-images {
     width: 45%;
     padding-left: 30px;
     padding-top: 7px;
@@ -276,7 +295,7 @@ footer {
     float: right;
   }
 
-  #events-image {
+  .events-image {
     width: 45%;
     padding-right: 30px;
     padding-top: 16px;
@@ -284,7 +303,7 @@ footer {
     float: left;
   }
 
-  #events-text {
+  .events-text {
     float: left;
     text-align: justify;
     padding-top: 30px;
@@ -296,7 +315,20 @@ footer {
     line-height: 2;
   }
 
-  #containers #text {
+  .containers .text {
     line-height: 2;
+  }
+
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3,  1fr);
+    gap: 2px;
+    margin: 80px;
+  }
+
+  .gallery-images:hover {
+    scale: 1.2;
+    transition: 0.5s ease;
   }
 }
