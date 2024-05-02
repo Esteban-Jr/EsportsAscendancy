@@ -146,6 +146,37 @@ nav {
   padding: 20px 65px;
 }
 
+/* Events page */
+#events-images {
+  width: 100%;
+  /*padding: 17px;*/
+  padding-top: 10px;
+}
+
+#events-image {
+  width: 100%;
+  background-size: cover;
+  /*padding: 17px;*/
+  padding-top: 10px;
+}
+
+#events-text {
+  float: left;
+  text-align: justify;
+  padding-top: 15px;
+  font-size: 0.8rem;
+  margin: 10px;
+  display: block;
+  color: white;
+  text-align: justify;
+  line-height: 2;
+}
+
+#title-image {
+  width: 100%;
+  background-size: cover;
+  height: 10vh;
+}
 /* Footer */
 
 footer {
