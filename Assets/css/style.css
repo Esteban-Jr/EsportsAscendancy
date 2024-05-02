@@ -243,4 +243,41 @@ footer {
     display: block;
     overflow: hidden;
   }
+  #containers {
+    padding: 20px 100px;
+    display: block;
+    overflow: hidden;
+  }
+
+  #events-images {
+    width: 45%;
+    padding-left: 30px;
+    padding-top: 7px;
+    background-size: cover;
+    float: right;
+  }
+
+  #events-image {
+    width: 45%;
+    padding-right: 30px;
+    padding-top: 16px;
+    background-size: cover;
+    float: left;
+  }
+
+  #events-text {
+    float: left;
+    text-align: justify;
+    padding-top: 30px;
+    font-size: 1rem;
+    margin: 10px;
+    display: block;
+    color: white;
+    text-align: justify;
+    line-height: 2;
+  }
+
+  #containers #text {
+    line-height: 2;
+  }
 }
