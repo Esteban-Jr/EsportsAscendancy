@@ -31,6 +31,7 @@ header a {
   text-decoration: none;
   color: black;
   font-weight: bolder;
+  padding-right: 15px;
 }
 
 /* Navbar */
