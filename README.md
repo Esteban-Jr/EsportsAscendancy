@@ -120,3 +120,8 @@ Wireframes were produced using Balsamiq.
 - All navigation links were tested manually to ensure the user is directed to the correct section of the website.
 - Social Media links in the footer of each page were tested manually to ensure they direct the user to the correct page and open in a new tab. 
 
+### Device Testing
+
+- The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 8, iPhoneX and iPad to ensure responsiveness on various screen sizes. The website performed as intended. The responsive design was also checked using Chrome developer tools across multiple devices with structural integrity holding for the various sizes.
+- I also used the following websites to test responsiveness:
+    - [Am I Responsive](https://ui.dev/amiresponsive?url=https://esteban-jr.github.io/EsportsAscendancy/)
