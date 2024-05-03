@@ -27,3 +27,14 @@ The live link can be found here - [Esports Ascendancy](https://esteban-jr.github
 
 - ### Frequent User
   - As a frequent user I want to find inspiration for their own projects, articles, or discussions related to esports history and evolution by revisiting favorite sections or discovering new content.
+
+## Design
+
+### Imagery
+The images have a powerful visual impact that can convey a lot of information quickly and effectively. They capture the essence of a moment or era in a way that text alone often cannot, making them ideal for showcasing the evolution of esports over time.
+
+### Colours
+The color scheme of white, black, #262626 (Dark Gray), and #23f89e (Turquoise/Green) creates a modern, sophisticated, and visually appealing aesthetic for the website. It balances simplicity with vibrancy, professionalism with personality, and ensures that the content is presented in a clear and engaging manner for users.
+
+### Fonts
+The Inter font is the main font used throughout the whole website. This font was imported via [Google Fonts](https://fonts.google.com/). I'm using Sans Serif as a backup font, in case for any reason the main font isn't being imported into the site correctly.
