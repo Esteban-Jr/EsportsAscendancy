@@ -131,3 +131,19 @@ Wireframes were produced using Balsamiq.
 Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ## Fixed Bugs
+
+### Multiple ID's used
+
+- I had used the same id's multiple times.
+- To fix this i replaced the id's used with classes instead.
+
+### Gallery images
+
+- The images in the gallery were not responsive across all screen sizes.
+- To fix the issue i used flexbox to be able to have the responsiveness across all screens.
+
+## Technologies Used
+
+### Languages
+- HTML5
+- CSS
