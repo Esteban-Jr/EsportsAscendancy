@@ -70,3 +70,9 @@ Wireframes were produced using Balsamiq.
     - This section provides the user with a clear visual representation of the purpose of the site.
 
 ![Landing page](/documents/read-me-images/landing-page-image.PNG)
+
+- ### What is Esports section
+
+    - This section succinctly introduces esports as a professional field, tracing its exponential growth and outlining its global impact and promising future.
+
+![What is section image](/documents/read-me-images/what-is-esports.PNG)
