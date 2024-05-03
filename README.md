@@ -96,3 +96,10 @@ Wireframes were produced using Balsamiq.
 
 - Form to allows user to sign up, or submit information
 - More information about more events
+
+## Validator Testing
+
+- #### HTML
+
+    - No errors were returned when passing through the official W3C Markup Validator.
+    - [W3C Validator Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Festeban-jr.github.io%2FEsportsAscendancy%2F)
