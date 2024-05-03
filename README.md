@@ -101,31 +101,33 @@ Wireframes were produced using Balsamiq.
 
 - #### HTML
 
-    - No errors were returned when passing through the official W3C Markup Validator.
+    - No errors were returned when using official W3C Markup Validator.
     - [W3C Validator Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Festeban-jr.github.io%2FEsportsAscendancy%2F)
 
 - #### CSS
 
-    - No errors were found when passing through the official W3C CSS Validator. 
+    - No errors were found when using the official W3C CSS Validator. 
     - [W3C CSS Validator Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Festeban-jr.github.io%2FEsportsAscendancy%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#warnings)
 
 - #### Accessibility 
 
-    - The site achieved a Lighthouse accessibility score of 100% which confirms that the colours and fonts chosen are easy to read and accessible.
+    - The site achieved a Lighthouse accessibility score of 100% which confirms that there will be no issue in readability.
 
 ![Lighthouse score](/documents/read-me-images/accessibility.PNG)
 
 ### Links Testing
 
-- All navigation links were tested manually to ensure the user is directed to the correct section of the website.
-- Social Media links in the footer of each page were tested manually to ensure they direct the user to the correct page and open in a new tab. 
+- All navigation links were tested manually to ensure the user will be directed to the correct pages of the website.
+- Social Media links in the footer of each page were tested manually to ensure they direct the user to the appropriate link in a new tab.
 
 ### Device Testing
 
-- The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 8, iPhoneX and iPad to ensure responsiveness on various screen sizes. The website performed as intended. The responsive design was also checked using Chrome developer tools across multiple devices with structural integrity holding for the various sizes.
-- I also used the following websites to test responsiveness:
+- The website was viewed on a variety of devices to ensure responsiveness on various screen sizes. The website performed as it was made to. The responsive design was also checked using Chrome developer tools across multiple devices.
+- I also used the following webiste to double the responsiveness:
     - [Am I Responsive](https://ui.dev/amiresponsive?url=https://esteban-jr.github.io/EsportsAscendancy/)
 
 ### Friends and Family User Testing
 
 Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+
+## Fixed Bugs
