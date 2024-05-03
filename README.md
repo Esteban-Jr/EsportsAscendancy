@@ -114,3 +114,9 @@ Wireframes were produced using Balsamiq.
     - The site achieved a Lighthouse accessibility score of 100% which confirms that the colours and fonts chosen are easy to read and accessible.
 
 ![Lighthouse score](/documents/read-me-images/accessibility.PNG)
+
+### Links Testing
+
+- All navigation links were tested manually to ensure the user is directed to the correct section of the website.
+- Social Media links in the footer of each page were tested manually to ensure they direct the user to the correct page and open in a new tab. 
+
