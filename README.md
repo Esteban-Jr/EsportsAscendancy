@@ -125,3 +125,7 @@ Wireframes were produced using Balsamiq.
 - The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 8, iPhoneX and iPad to ensure responsiveness on various screen sizes. The website performed as intended. The responsive design was also checked using Chrome developer tools across multiple devices with structural integrity holding for the various sizes.
 - I also used the following websites to test responsiveness:
     - [Am I Responsive](https://ui.dev/amiresponsive?url=https://esteban-jr.github.io/EsportsAscendancy/)
+
+### Friends and Family User Testing
+
+Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
