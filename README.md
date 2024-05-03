@@ -76,3 +76,18 @@ Wireframes were produced using Balsamiq.
     - This section succinctly introduces esports as a professional field, tracing its exponential growth and outlining its global impact and promising future.
 
 ![What is section image](/documents/read-me-images/what-is-esports.PNG)
+
+- ### History Section
+
+    - Within this section, significant milestones in the Esports history are curated, offering invaluable insights.
+    - This segment holds great value as users are presented with key events that have shaped the Esports industry into what it is today, providing a deeper understanding of its evolution.
+
+![History section image](/documents/read-me-images/history-section.PNG)
+
+- ### Footer
+
+    - The footer section includes links to our Facebook, Instagram, Twitter and Youtube pages.
+    - The links will open to a new tab to allow easy navigation for the user. 
+    - The footer is valuable to the user as it allows them to find and follow us on social media.
+
+![Footer image](/documents/read-me-images/footer.PNG)
