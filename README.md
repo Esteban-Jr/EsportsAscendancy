@@ -91,3 +91,8 @@ Wireframes were produced using Balsamiq.
     - The footer is valuable to the user as it allows them to find and follow us on social media.
 
 ![Footer image](/documents/read-me-images/footer.PNG)
+
+### Features Left to Implement
+
+- Form to allows user to sign up, or submit information
+- More information about more events
