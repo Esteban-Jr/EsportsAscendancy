@@ -171,3 +171,27 @@ The project was deployed using GitHub pages. The steps to deploy using GitHub pa
 
 
 The live link can be found here - [Esports Ascendancy](https://esteban-jr.github.io/EsportsAscendancy/)
+
+## Credits
+
+### Media
+All images and their url's will be below:
+1972: (https://twitter.com/vg_history/status/1378200123616882689/photo/1)
+1980: (https://steemit.com/retrogaming/@darth-azrael/space-invaders-championship-1980)
+1997:(https://whatculture.com/gaming/8-strangest-things-ever-won-at-a-video-game-event?page=8)
+2000s: (https://en.wikipedia.org/wiki/World_Cyber_Games_2005)
+2010s: (https://www.redbull.com/int-en/eg-universe-mvp-the-international-5)
+2020s: (https://newsaf.cgtn.com/news/2021-11-07/Edward-Gaming-wins-2021-League-of-Legends-World-Championship-14YMbS1xCAE/index.html)
+Present: (https://www.esports.net/news/dota/the-international-stats-and-records)
+The International Championship: (https://www.google.com/search?q=The+international+dota+2&sa=X&sca_esv=260407b5166ebe05&rlz=1C1GCEU_en-GBCO1060CO1060&biw=2133&bih=1021&sxsrf=ACQVn09WqUoYSkH97hSg3BhB6EVig42miw:1714587755985&udm=2&source=iu&ictx=1&vet=1&fir=PgqW8iFIOLmwCM%252CGFfy3_hiCvcZHM%252C_%253BvJuonGEiWpEutM%252CJm8a-Znr129zEM%252C_%253BOp-w_eMJJNZMvM%252CqrL6D2MlgI6yFM%252C_%253B-FQIDDbHRW2C8M%252ChOR0r3__wMNOdM%252C_%253B0SJf_yYbKIWBQM%252CE6I8bYAMV4H5QM%252C_%253BH95w_n95agR7XM%252Ch07udbEIRV-cbM%252C_%253BxGkpIIftrPfHUM%252C_1__MFz28Hqt4M%252C_&usg=AI4_-kStaJk3EvYYDEy7clELnIzRSr_BMQ&ved=2ahUKEwjIwYaRie2FAxXlUUEAHQnxCrUQ_h16BAg8EAE#vhid=tGD7PFc4zKvVzM&vssid=mosaic)
+Katowice: (https://nerdstreet.com/news/2023/2/csgo-g2-esports-win-iem-katowice-2023)
+Esports 1: (https://www.sportspromedia.com/insights/opinions/esports-gaming-market-2022-faze-clan-streaming-acquisitions-microsoft-activision/)
+Esports 2: (https://www.mckkatowice.pl/pl/aktualnosci/g2-esports-wygrywa-iem-katowice-2023,2537.html)
+Esports 3: (https://www.oneesports.gg/dota2/team-spirit-wins-ti12/)
+Esports banner: [Canva](https://www.canva.com/)
+
+### Acknowledgements
+
+- I would like to thank my Code Institute mentor, Chris Quinn (https://github.com/10xOXR) for their support throughout the development of this project.
+- I would like to thank Code Institute for giving me the opportunity to complete the 5P course.
+- I would like to thank the Code Institute Slack community for moral support and helpful advice.
