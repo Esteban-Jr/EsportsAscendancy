@@ -38,3 +38,19 @@ The color scheme of white, black, #262626 (Dark Gray), and #23f89e (Turquoise/Gr
 
 ### Fonts
 The Inter font is the main font used throughout the whole website. This font was imported via [Google Fonts](https://fonts.google.com/). I'm using Sans Serif as a backup font, in case for any reason the main font isn't being imported into the site correctly.
+
+## Wireframes
+Wireframes were produced using Balsamiq. 
+
+ <details>
+
+ <summary>Mobile Wireframe</summary>
+
+![Desktop Wireframe](/documents/read-me-images/esports-ascendancy-phone-wireframes.png)
+ </details>
+
+ <details>
+    <summary>Website Wireframe</summary>
+
+![Mobile Wireframe](/documents/read-me-images/esports-ascendancy-web-wireframes.png)
+ </details>
