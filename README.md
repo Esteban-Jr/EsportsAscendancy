@@ -63,3 +63,10 @@ Wireframes were produced using Balsamiq.
     - Also a fully responsive drop down menu.
 
 ![Nav bar image](/documents/read-me-images/header.PNG)
+
+- ### Landing Page Image
+
+    - The landing page includes an image with the websites name and text decribing the goal of the site
+    - This section provides the user with a clear visual representation of the purpose of the site.
+
+![Landing page](/documents/read-me-images/landing-page-image.PNG)
