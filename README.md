@@ -54,3 +54,12 @@ Wireframes were produced using Balsamiq.
 
 ![Mobile Wireframe](/documents/read-me-images/esports-ascendancy-web-wireframes.png)
  </details>
+
+
+ ## Features
+- ### Navigation
+
+    - The fully responsive navigation bar includes links to the Logo, Home, Events and Gallery page.
+    - Also a fully responsive drop down menu.
+
+![Nav bar image](/documents/read-me-images/header.PNG)
